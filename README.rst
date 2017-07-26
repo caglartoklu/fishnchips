@@ -20,3 +20,4 @@ Compatibility
 Licence
 -------
 
+[WTFPL](http://www.wtfpl.net/)
