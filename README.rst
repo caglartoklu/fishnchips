@@ -53,6 +53,8 @@ If you use PyCharm, ``.idea`` directory is already added to ``.gitignore`` file.
 When you use PyCharm to inspect the project, "Inspection Results" window will include the ``.eggs`` directory.
 To ignore the inspection for that directory, right-click on the directory, select  ``Mark Directory as`` and then select ``Excluded``.
 
+.. image:: https://user-images.githubusercontent.com/2071639/56022258-ef2d5c80-5d13-11e9-82ca-495a275f8188.png
+
 ``.private`` or ``_private`` directory (you can create them yourself if you need a directory that will not be tracked by git) are already added to ``.gitignore`` file.
 
 
