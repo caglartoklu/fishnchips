@@ -43,3 +43,5 @@ nosetests.xml
 /.idea/*
 /.private
 /.private/*
+/_private
+/_private/*
